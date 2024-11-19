@@ -67,7 +67,7 @@ def loaddata(dataset, args, device):
     return adj_withloop_won, adj_withloop, adj_woself, features, ano_label
 
 traindatasets = ['Facebook']
-targdataset = ['Amazon', 'Reddit', 'weibo']
+targdataset = ['Amazon', 'Reddit']
 
 adj_withloop_won_train = []
 adj_withloop_train = []
