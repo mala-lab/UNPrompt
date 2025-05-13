@@ -1,4 +1,4 @@
-Code for "Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts"([UMPrompt](https://arxiv.org/pdf/2410.14886))
+Code for "Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts"([UMPrompt](https://arxiv.org/pdf/2410.14886) [Supplementary]())
 
 ## Get Started
 To run the code, the following packages are required to be installed:
