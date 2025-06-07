@@ -9,6 +9,10 @@ To run the code, the following packages are required to be installed:
 
 -dgl==1.0.1+cu117
 
+## Datasets
+
+All the datasets except Weibo and Disney can be found at https://drive.google.com/drive/folders/1qcDBcVdcfAr_q5VOXBYagtnhA_r3Mm3Z?usp=drive_link
+
 ## Train
 To get the results with Facebook as the training graph, just run the following command:
 
